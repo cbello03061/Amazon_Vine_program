@@ -7,6 +7,13 @@ The pourpouse of this module is obtain:
 
 first we had to create an AWS RDS database with tables in pgAdmin, pick a dataset from the Amazon Review datasets (Links to an external site.), and extract the dataset into a DataFrame
 
+Amazon RDS Database
+![image](https://user-images.githubusercontent.com/96089967/166343084-6e90addc-fd2d-4527-aa72-b7e614e3fcee.png)
+
+
+
+
+
 The data that we select was:
 https://s3.amazonaws.com/amazon-reviews-pds/tsv/amazon_reviews_us_Toys_v1_00.tsv.gz
 
